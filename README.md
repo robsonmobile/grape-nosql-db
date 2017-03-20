@@ -89,8 +89,8 @@ console.log(db.getRecords());
 
 ## Implementações futuras
 
-1.  Método para ordernar por dadas.
-2.  Método para retornar registro entre duas datas.
+1.  Método para ordernar por dada.
+2.  Método para retornar registros entre duas datas.
 3.  Método para converter formatação de datas.
 
 ## Créditos e Licença
