@@ -55,7 +55,7 @@ function grape () {
   }
 
   this.generateID = function () {
-    var id = Date.now() + Math.floor(Math.random() * (9999 - 1000)) + 1000;
+    var id = Date.now() + Math.floor(Math.random() * 8999);
     return id;
   }
 }
